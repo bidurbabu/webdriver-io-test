@@ -1,2 +1,2 @@
 # webdriver-io-test
-- npm i, npm start
+- `npm i`, `npm test`
